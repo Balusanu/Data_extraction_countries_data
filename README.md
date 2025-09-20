@@ -9,7 +9,7 @@ Ans :Tuvalu
 4.	what is the capital of the country with least population?
 Ans :Funafuti
 5.	give me top 5 countries with highest democratic score
-Ans :1 Norway, 2 Iceland, 3 Sweden, 4 New, 5 Zealand
+Ans :1 Norway, 2 Iceland, 3 Sweden, 4 New Zealand, 5 Denmark
 6.	how many total regions are there?
 Ans :22
 7.	how many countries lie in Eastern Europe region?
